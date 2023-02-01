@@ -19,7 +19,7 @@ Good luck in your battle against the zombies!
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video Demo] https://youtu.be/DaA3P5T7fuY .
 
 ## Compilation Instructions
 
@@ -47,12 +47,12 @@ if press load user is asked to put name of the save
 if press start users are prompted with map dimensions and are asked to wether change the map dimensions with other odd numbers or stick to the one currently
 after map is displayed users can type in help to see the commands listed in order to play the game properly :
 
-up to move up
-down for down
-left and right to move left and right respectively
-save to save the game
-load to load a save file
-quit to quit the game
+- up to move up
+- down for down
+- left and right to move left and right respectively
+- save to save the game
+- load to load a save file
+- quit to quit the game
 
 once player is done playing and wants to save progress, user can type save and are asked to type in a name for the save file
 after that user can safely quit the game by typing in quit and are prompted with a y/n question in which if user were to quit type y
