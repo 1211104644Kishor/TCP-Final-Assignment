@@ -41,6 +41,7 @@ No additional features implemented yet.
 
 1. Saving & loading game
 2. Record video for part 1
+3. Do the README.md
 
 ## Problems Encountered & Solutions
 
