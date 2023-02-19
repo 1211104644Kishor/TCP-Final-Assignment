@@ -29,9 +29,9 @@ Provide instructions on how to compile your program, especially when it is non-t
 1. Open Visual Studio Code and open the project folder that contains the game files.
 2. Make sure Git is installed on your computer and that you have cloned the project repository to your local machine.
 3. In Visual Studio Code, open the terminal window (press Ctrl + `` ).
-4.Run the following command to create the game exe file:
+4. Run the following command to create the game exe file:
 g++ main.cpp -o game
-4. Run the following command to run the game:
+5. Run the following command to run the game:
 chcp 65001 to change into UTF-8,then
 .\game
 
