@@ -38,6 +38,11 @@ chcp 65001 to change into UTF-8,then
 This will compile the game and run it in the terminal window. If there are any errors in the code, they will be displayed in the terminal, and you will need to fix them before the game can run correctly.
 
 ## User Manual
+Please download the  Assignment_P2 file.
+
+If you are using CMD in VSCode, please key in chcp 65001 to change to UTF-8 temporary before start the game because we use UTF-8 encoding for this game
+
+Use ./a for ming64 and .\a for VsCode and CMD
 
 Please provide the user manual on how to use your program.
 
