@@ -22,6 +22,7 @@ https://youtu.be/-X49fPxBe0k
 
 1. Added shield to Alien.
 2. Added ASCII art (for cover before game starts, "you win" & "game over")
+3. Added the boost between zombies.
 
 ## Contributions
 
