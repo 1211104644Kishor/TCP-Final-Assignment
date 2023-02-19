@@ -30,7 +30,7 @@ Provide instructions on how to compile your program, especially when it is non-t
 3. In Visual Studio Code, open the terminal window (press Ctrl + `` ).
 4. Run the following command to build the game:
 
-g++ Assignment Part 1.cpp -o game
+g++ main.cppp -o game
 
 5. Run the following command to run the game:
 
