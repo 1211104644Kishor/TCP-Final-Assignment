@@ -19,7 +19,8 @@ Good luck in your battle against the zombies!
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo] https://youtu.be/DaA3P5T7fuY .
+Video Demo part 1: https://youtu.be/DaA3P5T7fuY 
+Video Demo part 2: https://youtu.be/-X49fPxBe0k
 
 ## Compilation Instructions
 
